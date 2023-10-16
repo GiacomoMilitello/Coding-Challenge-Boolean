@@ -1,0 +1,69 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-image: url('https://bouldercolorado.gov/sites/default/files/styles/hero_image_977x557/public/2021-08/lime-1.jpg?itok=Vq6J5Q6k');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    padding: 80px;
+    margin: auto;
+    background-color: rgba(0,0,0,0.5);
+    width: 900px;
+    border-radius: 10px;
+}
+header{
+    text-align: center;
+}
+.logo{
+    width: 200px;
+}
+.logotext{
+    color: #32D502;
+    font: size 20px;
+}
+h3{
+    display: inline-block;
+}
+h3, p{
+    margin: 0;
+}
+#barranav{
+    padding: 5px;
+    text-align: center;
+    background-color: #32D502;
+    border-radius: 5px;
+}
+button{
+    vertical-align: middle;
+}
+main{
+    margin-top: 25px;
+    color: white;
+}
+div{
+    margin-top: 25px;
+}
+#carica1{
+    width: 250px;
+    height: 20px;
+    background-color: #FFC73D;
+    border: none;
+    border-radius: 5px;
+}
+#carica2{
+    width: 450px;
+    height: 20px;
+    background-color: #32D502;
+    border: none;
+    border-radius: 5px;
+}
+#carica3{
+    width: 125px;
+    height: 20px;
+    background-color: #FF3838;
+    border: none;
+    border-radius: 5px;
+}
